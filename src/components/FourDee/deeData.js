@@ -1,0 +1,38 @@
+export const deeData = [
+  {
+    title: "Discover",
+    color: "#dafeac",
+    spanColor: "#c1ff72",
+    imageSrc: "/discover.svg",
+    description: "Discover the Possibilities",
+    rotationClass: "lg:-rotate-3",
+    offsetClass: "lg:right-12 ",
+  },
+  {
+    title: "Define",
+    color: "#cef1e5",
+    spanColor: "#5ce1e6",
+    imageSrc: "/define.svg",
+    description: "Define the Challenge",
+    rotationClass: "lg:rotate-3",
+    offsetClass: "lg:right-6 lg:top-4",
+  },
+  {
+    title: "Develop",
+    color: "#c0ecf0",
+    spanColor: "#ffde59",
+    imageSrc: "/develop.svg",
+    description: "Develop the Strategy",
+    rotationClass: "lg:-rotate-3",
+    offsetClass: "lg:-top-2",
+  },
+  {
+    title: "Deliver",
+    color: "#b6bced",
+    spanColor: "#d3aeff",
+    imageSrc: "/delivers.svg",
+    description: "Deliver the Possibility",
+    rotationClass: "lg:rotate-6",
+    offsetClass: "lg:left-6",
+  },
+];
