@@ -53,8 +53,8 @@ function NavMob() {
           href="/"
           className="flex items-center space-x-2 rtl:space-x-reverse"
         >
-          <span className="bg-black w-4 h-4 rounded-full"></span>
-          <span className="bg-[#9381ff] w-4 h-4 rounded-full"></span>
+          <span className="bg-[#21b0fe] w-4 h-4 rounded-full"></span>
+            <span className="bg-[#c2ff47] w-4 h-4 rounded-full"></span>
           <div className="flex flex-col">
             <h1 className="small text-[#0c0c0c] text-lg">ClipDropks</h1>
           </div>
