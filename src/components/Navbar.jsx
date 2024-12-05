@@ -85,7 +85,7 @@ const Navbar = () => {
                 <Link
                   onClick={() => setState(!state)}
                   href={item.path}
-                  className="block text-[16px] small dark:text-[#ffffff] text-gray-50 hover:text-gray-900"
+                  className="block text-[16px] small text-[#0c0c0c] dark:text-[#ffffff]  hover:text-gray-900"
                 >
                   {item.title}
                 </Link>
