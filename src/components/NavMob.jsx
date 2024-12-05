@@ -56,7 +56,7 @@ function NavMob() {
           <span className="bg-black w-4 h-4 rounded-full"></span>
           <span className="bg-[#9381ff] w-4 h-4 rounded-full"></span>
           <div className="flex flex-col">
-            <h1 className="small text-[#0c0c0c] text-lg">Quantafile</h1>
+            <h1 className="small text-[#0c0c0c] text-lg">ClipDropks</h1>
           </div>
         </Link>
 
@@ -83,7 +83,7 @@ function NavMob() {
               <span className="bg-black dark:bg-[#ffffff] w-4 h-4 rounded-full"></span>
               <span className="bg-[#9381ff] w-4 h-4 rounded-full"></span>
               <div className="flex flex-col">
-                <h1 className="small dark:text-[#ffffff] text-[#0c0c0c] text-lg">Quantafile</h1>
+                <h1 className="small dark:text-[#ffffff] text-[#0c0c0c] text-lg">ClipDropks</h1>
               </div>
             </Link>
             <button
@@ -119,7 +119,7 @@ function NavMob() {
           <div className="px-10 mt-3 flex flex-col items-start justify-end">
             <h2 className="text-purple-500 small text-xs mb-2">Get in touch</h2>
             <p className="lg:text-xl dark:text-[#ffffff] text-xl mb-2 small">
-              contact@quantafile.com
+              contact@clipdropks.com
             </p>
             <p className="lg:text-4xl dark:text-[#ffffff] text-xl small mb-2">+44 20 1234 5678</p>
             
